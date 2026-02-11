@@ -1,11 +1,11 @@
-# Omarchy nes shipb Theme
+# Omarchy 42 Works Theme
 
 Based on nes theme by bjarneo
 
 This is the retro nes theme for [Omarchy.org](https://omarchy.org), providing a visually appealing configuration set for your Linux desktop environment.
 
 <p align="center">
-  <img src="theme.png" alt="Nes ShipB Theme Preview">
+  <img src="theme.png" alt="42 Works Theme Preview">
 </p>
 
 ## Installation
